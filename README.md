@@ -1,3 +1,2 @@
 # demo
-
-You deserve this 🌇
+i have updated the readme
